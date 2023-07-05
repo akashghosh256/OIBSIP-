@@ -16,7 +16,7 @@
 import javax.swing.JOptionPane; // here i am using swing for input and output in dialog box
 import java.util.Random; // using random class for generating random number
 
-public class GuessTheNumber {
+public class Number_Guessing_Game {
     public static void main(String[] args) {
         // Generate random number
 
